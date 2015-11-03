@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+\
 10/13/14
 HW07 Task 01 that uses a function count() to find how many unique keywords
 occur and create another file that contains the lines from the original file but in
