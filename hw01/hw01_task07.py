@@ -1,6 +1,5 @@
 """
-Brett Bishop
-UT ID 1000425627
+
 9/1/14
 This program will ask the user to enter two nouns and a verb then print a sentence created using this data.
 """
