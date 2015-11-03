@@ -1,6 +1,5 @@
 """
-Brett Bishop
-UT ID 1000425627
+
 9/1/14
 This program will compute the monthly salary based on the yearly one.
 """
