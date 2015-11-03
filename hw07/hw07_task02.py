@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 10/13/14
 HW07 Task 02 part a takes a function center_string and takes object, and List and
 centers the object based on the list
