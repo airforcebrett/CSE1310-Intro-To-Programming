@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 10/4/14
 Task 1 part b) for homework 4 is a program that asks the user for size L_size
 and creates a list, L with real numbers in it. The numbers are randomly generated
