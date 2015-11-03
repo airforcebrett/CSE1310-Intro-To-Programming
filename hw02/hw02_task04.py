@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/10/14
 Task 4 for homework 2 is a program that asks the user to enter two integers,n and d and
 if divisible n by d it will print the integer and the remainder part of the division.
