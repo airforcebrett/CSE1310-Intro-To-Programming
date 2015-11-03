@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/10/14
 Task 5 for homework 2 is a program that simulates three coin tosses by generating 3 random
 numbers from the set [1,2]. If 1 was generated it corresponds with heads and 2 with tails. The program
