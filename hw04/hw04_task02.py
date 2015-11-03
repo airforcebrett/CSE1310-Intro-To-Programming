@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 10/4/14
 Task 2 for homework 4 is a program that counts the frequency of each letter in the string
 which is defined as the count of occurences of a letter divided by the total # of letters.
