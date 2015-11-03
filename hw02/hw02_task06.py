@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/10/14
 Task 6 for homework 2 is a program that takes two integers a and b and will compute a/b
 and b/a. Cannot divide by zero so it will print INF otherwise print the result of the division.
