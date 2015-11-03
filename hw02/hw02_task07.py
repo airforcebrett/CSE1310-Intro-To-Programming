@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/10/14
 Task 7 for homework 2 is a program that performs the following operations: +, -, *, /, **, //, %
 (as defined by Python.) The program will first read the first number, then the operation,
