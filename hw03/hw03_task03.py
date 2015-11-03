@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/15/14
 Task 3 for homework 3 is a program that repeatedly asks the user to enter two real numbers. It
 stops when the numbers entered by the user are equal. It will count how many pairs were entered
