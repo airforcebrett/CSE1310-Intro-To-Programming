@@ -1,6 +1,5 @@
 """
-Brett Bishop
-UT ID 1000425627
+
 9/1/14
 This program will repeatedly print a cheer given by the user.
 """
