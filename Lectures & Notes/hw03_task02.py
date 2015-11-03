@@ -1,6 +1,6 @@
 """
 Brett Bishop
-1000425627
+
 9/15/14
 Task 2 for homework 3 is a program that we map out in excel
 
