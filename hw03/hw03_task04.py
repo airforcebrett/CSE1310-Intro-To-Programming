@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/15/14
 Task 4 for homework 3 is a program that takes 2 integers from user and
 will display all numbers, s, such that are both a multiple of small number and divisor of
