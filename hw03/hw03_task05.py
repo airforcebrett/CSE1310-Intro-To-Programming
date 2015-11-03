@@ -1,6 +1,5 @@
 """/Users/AirforceBrett/Documents/UTA/CSE1310 Intro To Programming/hw03/hw03_task05.py
-Brett Bishop
-1000425627
+
 9/15/14
 Task 5 for homework 3 is a program that asks the user to enter two strings. It will
 compute and display the number of positions in the strings that have the same
