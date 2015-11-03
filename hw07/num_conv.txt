@@ -1,0 +1,44 @@
+Brett Bishop
+1000425627
+CSE1310
+11/25/14
+
+Task1:
+
+a)Convert the following numbers (from base 10) to base 2:
+
+1. 14 base 10 is 1110 in base 2
+2. 66 base 10 is 1000010 in base 2
+3. 129 base 10 is 10000001 in base 2
+4. 511 base 10 is 111111111 in base 2
+5. 512 base 10 is 1000000000 in base 2
+
+b) Convert the following numbers (from base 2) to base 10. You should assume they are all positive values:
+
+1. 1001 base 2 is 9 in base 10
+2. 10101 base 2 is 21 in base 10
+3. 11111 base 2 is 31 in base 10
+4. 0101001 base 2 is 41 in base 10
+5. 01010101 base 2 is 85 in base 10
+
+c) Convert the following numbers:
+
+7B2 (base 16) to: base 10 (1970)
+567 (base 8) to : base 5 (3000)
+567 (base 10) to : base 5 (4232)
+2121 (base 3) to : base 4 (1012)
+7778 (base 10) to: base 16 (1E62)
+d) Convert the following negative numbers (from base 10) to base 2 using 2's complement on 8 bits:
+-1 is 11111111 in base 2
+-14 is 11110010 in base 2
+-48 is 11100000 in base 2
+-85 is 10101011 in base 2
+-128 is 10000000 in base 2
+e) Convert the following numbers (from base 2) to base 10. This binary representation is using 2's complement on 8 bits to represent negative numbers. Keep in mind that the binary numbers below may represent both negative and positive numbers. By looking at the representation, you should be able to tell if it represents a positive or a negative number.
+10111010 is 186 in base 10
+10010010 is 146 in base 10
+11001001 is 201 in base 10
+01111111 is -129 in base 10
+10001000 is -120 in base 10
+
+

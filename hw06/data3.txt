@@ -1,0 +1,5 @@
+First, Last, GPA, Major, Drops
+Jane, Doe, 3.5, CS, 2
+Joe, Doe, 2  , CpE, 0
+Todd,Brown,3.8,CS,5
+Mike,Smith,   3.888   , CS  , 12

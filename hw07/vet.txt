@@ -1,0 +1,6 @@
+12, cat
+3, cat
+6, dog
+1, cat
+10, mouse
+9, mouse

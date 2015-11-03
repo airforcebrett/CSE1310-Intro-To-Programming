@@ -1,0 +1,19 @@
+from hw06_task01 import *
+
+def main():
+    table = load_file('bad_name.txt')
+    fnm = input("Enter the file name: ")
+    table = load_file(fnm)
+    pretty_print(table, 10)
+    L_top = [3,4,0]
+    sort_multiple(table, L_top)
+    print("\n\nAfter reordering by L_top = ", L_top, "\n\n")
+    pretty_print(table, 10)    
+    L_top = [2,4]
+    sort_multiple(table, L_top)
+    print("\n\nAfter reordering by L_top = ", L_top, "\n\n")
+    pretty_print(table, 10)
+    print('\n')
+    pretty_print(table, 6)
+
+main()
