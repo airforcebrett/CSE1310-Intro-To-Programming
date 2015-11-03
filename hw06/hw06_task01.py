@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 10/13/14
 HW06 Task 01 that loads a file and manipulates a 'table'
 
