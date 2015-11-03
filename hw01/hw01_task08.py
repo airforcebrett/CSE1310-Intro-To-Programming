@@ -1,6 +1,5 @@
 """
-Brett Bishop
-UT ID 1000425627
+
 9/1/14
 This program will ask the user to enter two real numbers and compute and display
 operations between the two: multiplication, division, integer division, modulo , exponentiation.
