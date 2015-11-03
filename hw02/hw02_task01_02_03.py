@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/10/14
 Task 1,2 & 3 problems for homework 2
 """
