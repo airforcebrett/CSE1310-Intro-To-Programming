@@ -1,6 +1,5 @@
 """
-Brett Bishop
-1000425627
+
 9/15/14
 Task 1 for homework 3 is a program that will compute the value of the expression
 x/2+x//2
